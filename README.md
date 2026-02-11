@@ -38,16 +38,22 @@ skills mismatch, or poorly structured resumes. This system helps users understan
 </ul>
 
 <hr>
-<div class="demo-section">
-    <h2>Project Demo</h2>
 
-    <iframe
-        src="https://drive.google.com/file/d/1nk_DDEJ5uxwRQRyc-P61pGcAmvgyqCFs/preview"
-        width="100%"
-        height="480"
-        allow="autoplay">
-    </iframe>
-</div>
+<h2>Project Demo</h2>
+
+<p>
+  This demo video shows the working of the Smart Resume Analyzer web application.
+  It demonstrates how a user can select a job role, upload a resume, and receive
+  an automated evaluation including resume score, detected skills, missing skills,
+  and suggestions for improvement.
+</p>
+<p>
+  <a href="https://drive.google.com/file/d/1nk_DDEJ5uxwRQRyc-P61pGcAmvgyqCFs/view?usp=sharing" target="_blank">
+    Watch Demo Video
+  </a>
+</p>
+
+
 <h2>Features</h2>
 
 <ul>
