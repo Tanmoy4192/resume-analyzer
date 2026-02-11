@@ -38,7 +38,16 @@ skills mismatch, or poorly structured resumes. This system helps users understan
 </ul>
 
 <hr>
+<div class="demo-section">
+    <h2>Project Demo</h2>
 
+    <iframe
+        src="https://drive.google.com/file/d/1nk_DDEJ5uxwRQRyc-P61pGcAmvgyqCFs/preview"
+        width="100%"
+        height="480"
+        allow="autoplay">
+    </iframe>
+</div>
 <h2>Features</h2>
 
 <ul>
