@@ -3,31 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <title>Smart Resume Analyzer</title>
-    <style>
-        body {
-            font-family: Arial, Helvetica, sans-serif;
-            margin: 40px;
-            line-height: 1.6;
-            color: #333;
-            max-width: 1000px;
-        }
-        h1, h2, h3 {
-            color: #222;
-        }
-        code, pre {
-            background: #f4f4f4;
-            padding: 10px;
-            display: block;
-            overflow-x: auto;
-            border-radius: 5px;
-        }
-        ul {
-            margin-left: 20px;
-        }
-        hr {
-            margin: 30px 0;
-        }
-    </style>
 </head>
 
 <body>
