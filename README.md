@@ -53,6 +53,20 @@ skills mismatch, or poorly structured resumes. This system helps users understan
   </a>
 </p>
 
+<h2>Live Application</h2>
+
+<p>
+  You can access the live deployed version of the Smart Resume Analyzer using the link below.
+  The website allows users to select a job role, upload a resume, and receive an automated
+  analysis including resume score, detected skills, missing skills, and improvement suggestions.
+</p>
+
+<p>
+  <a href="https://cv2analyzer.netlify.app/" target="_blank">
+    Open Live Resume Analyzer Website
+  </a>
+</p>
+
 
 <h2>Features</h2>
 
