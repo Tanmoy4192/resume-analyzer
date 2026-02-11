@@ -1,4 +1,4 @@
-const API = "http://localhost:8000";
+const API = "https://resume-analyzer-7fnx.onrender.com";
 
 // Load roles
 fetch(`${API}/roles`)
